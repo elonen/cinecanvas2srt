@@ -1,5 +1,5 @@
 # cinecanvas2srt
-Simple CineCanvas SCP subtitle XML to SRT converter in Python 3
+Simple CineCanvas DCP subtitle XML to SRT converter in Python 3
 
 Usage:
 ```
