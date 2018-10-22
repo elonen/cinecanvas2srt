@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="joo.xsl"?>
+<DCSubtitle Version="1.0">
+  <SubtitleID>c0ede3f7-ccce-41c1-85c6-a09d80ace518</SubtitleID>
+  <MovieTitle>TESTFILM</MovieTitle>
+  <ReelNumber>1</ReelNumber>
+  <Language>English</Language>
+  <LoadFont URI="Arial.ttf" Id="Arial"/> <Font Id="Arial" Color="FFFFFFFF" Effect="border" EffectColor="FF000000" Italic="no" Underlined="no" Script="normal" Size="43">
+    <Subtitle SpotNumber="1" FadeUpTime="0" FadeDownTime="0" TimeIn="00:00:16:115" TimeOut="00:00:19:104">
+      <Text VPosition="14" VAlign="bottom" HAlign="center" Direction="horizontal">It's funny you think about</Text>
+      <Text VPosition="8" VAlign="bottom" HAlign="center" Direction="horizontal">the process of making the game, -</Text>
+    </Subtitle>
+    <Subtitle SpotNumber="2" FadeUpTime="0" FadeDownTime="0" TimeIn="00:00:19:124" TimeOut="00:00:22:114">
+      <Text VPosition="14" VAlign="bottom" HAlign="center" Direction="horizontal">and you're taking</Text>
+      <Text VPosition="8" VAlign="bottom" HAlign="center" Direction="horizontal">an incredible amount of things.</Text>
+    </Subtitle>
+    <Subtitle SpotNumber="3" FadeUpTime="0" FadeDownTime="0" TimeIn="00:00:22:143" TimeOut="00:00:27:052">
+      <Text VPosition="14" VAlign="bottom" HAlign="center" Direction="horizontal">Thousands of great ideas.</Text>
+      <Text VPosition="8" VAlign="bottom" HAlign="center" Direction="horizontal">You can't just have a hundred.</Text>
+    </Subtitle>
+    <Subtitle SpotNumber="4" FadeUpTime="0" FadeDownTime="0" TimeIn="00:00:27:102" TimeOut="00:00:31:171">
+      <Text VPosition="14" VAlign="bottom" HAlign="center" Direction="horizontal">You have to have thousands of ideas.</Text>
+      <Text VPosition="8" VAlign="bottom" HAlign="center" Direction="horizontal">Or 10,000.</Text>
+    </Subtitle>
+  </Font> </DCSubtitle>
